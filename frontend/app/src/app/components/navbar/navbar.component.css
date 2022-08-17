@@ -1,0 +1,12 @@
+nav {
+    padding: 0px;
+}
+
+a {
+    padding: 10px;
+}
+
+.active {
+    background-color: #3F51B5;
+    color: #FFFFFF;
+}
