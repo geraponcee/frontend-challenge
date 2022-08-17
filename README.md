@@ -2,8 +2,8 @@
 
 ## Requerimientos:
 
-- Docker
-- Docker compose
+* Docker
+* Docker compose
 
 ## Despliegue:
 
@@ -11,19 +11,19 @@
 
 2) Iniciar bash dentro de repositorio y luego ejecutar:
 
-### docker-compose build
+### `docker-compose build`
 
-### docker-compose up
+### `docker-compose up`
 
-Ingresar a:
+Ingresar a [http://localhost](http://localhost)
 
-### http://localhost
+## Composición:
 
-## Backend
+###Backend
 
 Contiene la API brindada en el challenge
 
-## Frontend
+### Frontend
 
 App que cuenta con los requisitos solicitados. Fue construido con:
 * Angular 14
